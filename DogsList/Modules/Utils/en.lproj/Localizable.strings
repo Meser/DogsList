@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  DogsList
+
+  Created by Juan Hernandez Galvan on 09/06/25.
+  
+*/
+"APP_TITLE" = "Dogs We Love";
+"DOG_YEARS" = "Almost %d years old";
+"DOG_NAME" = "Dog name: %@";
