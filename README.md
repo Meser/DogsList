@@ -4,7 +4,7 @@ This application built with **Swift (VIPER)** allows you to download, view, and 
 
 ## 📱 Features
 
-- Initial download from: `[https://www.freetogame.com/api/games](https://jsonblob.com/api/1151549092634943488)`
+- Initial download from: `(https://jsonblob.com/api/1151549092634943488)`
 - Display a list of dogs
 - Pull to refresh
 - Dogs detail view
